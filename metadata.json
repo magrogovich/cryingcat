@@ -6,7 +6,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://example.com/token/CRYC/file",
+        "uri": "https://raw.githubusercontent.com/magrogovich/cryingcat/main/metadata.json",
         "type": "text/plain"
       }
     ],
