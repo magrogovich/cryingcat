@@ -1,0 +1,21 @@
+{
+  "name": "Crying Cat",
+  "symbol": "CRYC",
+  "uri": "https://example.com/token/CRYC",
+  "image": "https://raw.githubusercontent.com/magrogovich/cryingcat/main/cryingcat.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/token/CRYC/file",
+        "type": "text/plain"
+      }
+    ],
+    "category": "social-token",
+    "creators": [
+      {
+        "address": "8frRT6QVcLecbj1c8SbDjyYFH1vMW6mDTLB6cB7x5xQo",
+        "share": 100
+      }
+    ]
+  }
+}
